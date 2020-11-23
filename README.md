@@ -30,7 +30,7 @@ This repo consists of the topics I hold about Flutter Course.
 	- Flutter doctor : 
 	
 ![image](https://user-images.githubusercontent.com/5441882/100020575-16ee0d00-2df1-11eb-86de-9f2423c39205.png) 
-
+	
 	- Flutter Channel : Flutter 4 farkli stream halinde gidiyor. stable uygulamalarda kullanilmasi tavsiye edilendir. 
 	bir alt stabil olan versiyonu betadir. beta ayda bir update'i gelmektedir. 
 	dev, testler calismis oluyor master'a gore daha stanbildir. 
